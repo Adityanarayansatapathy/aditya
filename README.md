@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-narayan-satapathy-6078a6224/)](https://www.linkedin.com/in/aditya-narayan-satapathy-6078a6224/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-narayan-satapathy-6078a6224/)](https://www.linkedin.com/in/aditya-narayan-satapathy-6078a6224/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aditya-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aditya-yellow)](https://stackoverflow.com/users/19543481/aditya-narayan-satapathy)
 
